@@ -1,0 +1,17 @@
+tensorflow
+keras_cv
+numpy
+matplotlib
+opencv-python
+scikit-learn
+scipy
+scikit-image
+pandas
+openpyxl
+albumentations
+
+torch
+torchvision
+torcheval
+torchmetrics
+segmentation-models-pytorch
